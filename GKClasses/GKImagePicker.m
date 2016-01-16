@@ -14,7 +14,7 @@
 @property (nonatomic, weak) UIViewController *presentingViewController;
 @property (nonatomic, weak) UIView *popoverView;
 @property (nonatomic, strong) UIPopoverController *popoverController;
-@property (nonatomic, strong) UIImagePickerController *imagePickerController;
+
 - (void)_hideController;
 @end
 
